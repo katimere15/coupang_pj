@@ -1,0 +1,8 @@
+불용어 리스트
+https://www.ranks.nl/stopwords/korean?fbclid=IwAR2ExNUknGf4bOHA3cECFrv50f8YO2WOTEV4XKP5iDFAANYFWJ1PbMu9j_k
+
+머신러닝, 딥러닝, 데이터셋
+https://wikidocs.net/94600
+
+pyqt5 
+https://wikidocs.net/33889
